@@ -1,4 +1,17 @@
 {
+    "H100D50": {
     "Height": 100,
-    "Diameter": 50
+    "Diameter": 50,
+    "Colour": 10
+    },
+    "H200D50": {
+        "Height": 200,
+        "Diameter": 50,
+        "Colour": 20
+    },
+    "H100D100": {
+        "Height": 100,
+        "Diameter": 100,
+        "Colour": 36
+    }
 }
